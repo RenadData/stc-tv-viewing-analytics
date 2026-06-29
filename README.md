@@ -1,6 +1,6 @@
-# STC Jawwy — Viewing Analytics
+# STC TV — Viewing Analytics
 
-A three-part data analytics project on the STC Jawwy TV platform, covering viewer engagement analysis, watch-time forecasting, and a movie recommendation engine.
+A three-part data analytics project on the STC TV platform, covering viewer engagement analysis, watch-time forecasting, and a movie recommendation engine.
 
 ## Project Overview
 
